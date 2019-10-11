@@ -14,3 +14,5 @@ Github project link: https://github.com/cdils/in-the-beginning
 ## Theme Support
 
 This theme is offered as-is, with no support.
+
+Lol
